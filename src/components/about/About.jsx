@@ -1,9 +1,9 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assests/me-about.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import {AiFillFlag} from 'react-icons/ai'
+import {BsFillPersonFill} from 'react-icons/bs'
+import {TbMessageLanguage} from 'react-icons/tb'
 
 
 const About = () => {
@@ -22,26 +22,26 @@ const About = () => {
         <div className="about_content">
           <div className="about_cards">
             <article className= 'about_card'>
-              <FaAward className='about_icon'/>
-              <h5>Experience</h5>
-              <small>+3 Years of Working</small>
+              <AiFillFlag className='about_icon'/>
+              <h5>Nationality</h5>
+              <small>Nepali</small>
             </article>
 
             <article className= 'about_card'>
-              <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <BsFillPersonFill className='about_icon'/>
+              <h5>Age</h5>
+              <small>17 years</small>
             </article>
 
             <article className= 'about_card'>
-              <VscFolderLibrary className='about_icon'/>
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <TbMessageLanguage className='about_icon'/>
+              <h5>Languages</h5>
+              <small>Nepali, English, Hindi</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum earum, accusamus temporibus vero rerum minus aliquid quas sit? Libero, quae? Necessitatibus recusandae minus hic ab. Minus accusantium maiores placeat amet?
+          Currently, I am a freshman at Caldwell University double majoring in Computer Science (Honors) and Mathematics. Other than programming and equations, I love to  play scoccer, tennis, watch anime, and so forth.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
