@@ -9,7 +9,6 @@ import {TbMessageLanguage} from 'react-icons/tb'
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get to know</h5>
       <h2>About Me</h2>
 
       <div className="container about_container">
@@ -41,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          Currently, I am a freshman at Caldwell University double majoring in Computer Science (Honors) and Mathematics. Other than programming and equations, I love to  play scoccer, tennis, watch anime, and so forth.
+          Currently, I am a freshman at Caldwell University double majoring in Computer Science (Honors) and Mathematics. Other than programming and equations, I love to  play soccer, tennis, watch anime, and so forth.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

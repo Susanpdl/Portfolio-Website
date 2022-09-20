@@ -9,8 +9,7 @@ import IMG4 from '../../assests/Portfolio4.jpg'
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>My Recent Work</h2>
 
       <div className="container portfolio_container">
         <article className="portfolio_item">
