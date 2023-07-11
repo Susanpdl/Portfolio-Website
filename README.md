@@ -1,3 +1,6 @@
+Used Reactjs to build a full responsive portfolio website from scratch. Demonstarted HTML, CSS, and Javascript proficiency through this project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
